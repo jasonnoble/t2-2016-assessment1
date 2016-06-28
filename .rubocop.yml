@@ -1,6 +1,6 @@
 AllCops:
   Exclude:
-    - 'Gemfile'
+    - 'Guardfile'
 
 Style/FrozenStringLiteralComment:
   Enabled: false
