@@ -8,4 +8,8 @@ class CreditCard
   def charge(amount)
     @balance += amount
   end
+
+  def support
+    "(123) 456-7890"
+  end
 end
